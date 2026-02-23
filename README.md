@@ -1,2 +1,2 @@
 # calci
-# BASIC CALCULATOR, thats it ntng much...
+# SCIENTIFIC CALCULATOR
